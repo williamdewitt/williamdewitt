@@ -1,9 +1,18 @@
 <h1 align="center">Hi, I'm William de Witt 👋</h1>
 
+<p align="center">
+  <b>Christian • Husband • Engineer</b><br>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/william-de-wtt" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>
+
 ---
 ### What I do
 
 - **Software Engineering** - 
+- **System Design** - 
 
 ### Tech Stack
 
