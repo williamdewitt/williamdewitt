@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Jerome Hardaway 👋</h1>
+<h1 align="center">Hi, I'm William de Witt 👋</h1>
 
 ---
 ### What I do
