@@ -12,8 +12,9 @@
 ---
 ### What I do
 
-- **Software Engineering** - 
-- **System Design** - 
+- **Software Engineering** -
+- **Quality Engineering** - 
+- **System Design** -
 
 ### Tech Stack
 
