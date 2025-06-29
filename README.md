@@ -12,20 +12,18 @@
 ---
 ### What I do
 
-- **Software Engineering** -
-- **Quality Engineering** - 
-- **System Design** -
+- **Software Engineering** - ASP .Net Core, Dapper, SQL, Azure DevOps 
+- **Quality Engineering** - Playwrite, k6, .Net Core, Stryker.Net
 
 ### Tech Stack
 
 ```ts
-Languages:   ...
-Frontend:    ...
-Backend:     ...
+Languages:   C#, SQL
+Frontend:    Blazor
+Backend:     .Net Core, Minimal Api
 AI/ML:       ...
-Infra:       ...
-Testing:     ...
-Design:      ...
+Infra:       Azure, Terraform, Kubernetes
+Testing:     Selenium, Playwrite, Postman, k6, Stryker.Net
 ```
 
 ### Let's Connect
