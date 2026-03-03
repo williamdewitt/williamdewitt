@@ -13,17 +13,17 @@
 ### What I do
 
 - **Software Engineering** - ASP .Net Core, Dapper, SQL, Azure DevOps 
-- **Quality Engineering** - Playwrite, k6, .Net Core, Stryker.Net, nUnit, xUnit
+- **Quality Engineering** - Playwrite, k6, Stryker.Net, nUnit, xUnit
 
 ### Tech Stack
 
 ```ts
 Languages:   C#, TypeScript, SQL
-Frontend:    Blazor
+Frontend:    Blazor, AngularJS
 Backend:     .Net Core, Minimal Api
-AI/ML:       ...
+AI/ML:       Agentic Ai, MCP Servers
 Infra:       Azure, Terraform, Kubernetes
-Testing:     Selenium, Playwrite, Postman, k6, Stryker.Net, nUnit, xUnit
+Testing:     Selenium, Playwrite, Postman, k6, Stryker.Net, nUnit, xUnit, BrowserStack
 ```
 
 ### Let's Connect
